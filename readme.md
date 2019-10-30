@@ -1,3 +1,5 @@
+The version in this branch is a special one which supports MariaDB 10.14.1 (see PR #3504) and XCode Code Signing (see #3583). This branch is an intermediate branch used by me to build a fixed version for now until both PRs are merged upstream.
+
 Sequel Pro <img alt="Logo" src="https://sequelpro.com/images/logo.png" align="right" height="50">
 =======
 
